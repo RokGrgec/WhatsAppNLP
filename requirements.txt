@@ -1,0 +1,12 @@
+emoji
+emojis
+Pillow
+wordcloud
+pandas
+numpy
+matplotlib
+nltk
+gensim
+pygsheets
+google
+sklearn
